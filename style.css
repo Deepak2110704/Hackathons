@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  padding-top:100px;
+  background-image: url("https://cdn.pixabay.com/photo/2015/03/16/08/18/hex-675576_1280.jpg");
+}
+input {
+  background-color: #fff;
+  width: 150%;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  opacity: 5px;
+  text-align: center;
+  margin-bottom: 2rem;
+
+}
+
+button {
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 4px
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
